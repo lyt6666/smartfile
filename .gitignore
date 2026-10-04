@@ -1,0 +1,14 @@
+# 运行时生成的文件
+config.json
+.smartfile_index.json
+output.html
+reports.log
+
+# 系统
+.DS_Store
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.venv/
